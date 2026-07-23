@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAnilSethy/leetcode-question/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
