@@ -2,7 +2,7 @@ class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         left = 0
         freq = {}
-        res = 0
+        res = -1
 
         for right in range(len(fruits)):
             freq[fruits[right]] = freq.get(fruits[right], 0) + 1
