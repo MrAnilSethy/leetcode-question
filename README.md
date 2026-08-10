@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MrAnilSethy/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAnilSethy/leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAnilSethy/leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/MrAnilSethy/leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/MrAnilSethy/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrAnilSethy/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MrAnilSethy/leetcode-question/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MrAnilSethy/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
