@@ -20,7 +20,7 @@ class Solution:
             n = len(nev)
             res = []
             while(i<m and j<n):
-                if(pos[i]<+nev[j]):
+                if(pos[i]<nev[j]):
                     res.append(pos[i])
                     i+=1
                 else:
