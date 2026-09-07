@@ -1,21 +1,22 @@
 class Solution:
     def maximumSum(self, arr: List[int]) -> int:
-        nodel = arr[0]
-        onedel = float('-inf')
+        no_del = arr[0]
+        one_del = float('-inf')
         res = arr[0]
 
-        for i in range(1, len(arr)):
-            prevnodel = nodel
-            prevonedel = onedel
+        for i in range(1,len(arr)):
+            prev_no_del = no_del
+            prev_one_del = one_del
 
-            # Don't delete anything
-            nodel = max(prevnodel + arr[i], arr[i])
+            new_no_del = max(prev_no_del+arr[i],arr[i])
 
-            # Either:
-            # 1. Delete arr[i]
-            # 2. We already deleted something earlier
-            onedel = max(prevnodel, prevonedel + arr[i])
+            new_one_del = max(prev_one_del+arr[i],prev_no_del)
 
-            res = max(res, nodel, onedel)
 
+            no_del = new_no_del
+
+            one_del = new_one_del
+
+            res = max(res,max(no_del,one_del))
         return res
+        
