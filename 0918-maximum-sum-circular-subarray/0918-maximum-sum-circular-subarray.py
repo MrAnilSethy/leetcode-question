@@ -10,14 +10,11 @@ class Solution:
             min_sub = min(min_sub+nums[i],nums[i])
             max_res = max(max_res,max_sub)
             min_res = min(min_res,min_sub)
-            total += nums[i]
+            total+=nums[i]
         total+=nums[0]
 
-        # if no max_res then return 
         if max_res<0:
             return max_res
         circular_res = total-min_res
         return max(circular_res,max_res)
-
         
-       
