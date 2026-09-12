@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrAnilSethy/leetcode-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MrAnilSethy/leetcode-question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MrAnilSethy/leetcode-question/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
