@@ -10,6 +10,7 @@ class Solution:
             if rem<0:
                 rem+=k
             freq = map.get(rem,0)
-            count+=freq  
+            count+=freq
             map[rem] = map.get(rem,0)+1
-        return count     
+        return count
+        
