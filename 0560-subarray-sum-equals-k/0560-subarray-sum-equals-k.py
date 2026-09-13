@@ -11,3 +11,5 @@ class Solution:
             count+=freq
             map[sum] = map.get(sum,0)+1
         return count
+
+        
