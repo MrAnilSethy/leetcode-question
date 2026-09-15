@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/MrAnilSethy/leetcode-question/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/MrAnilSethy/leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MrAnilSethy/leetcode-question/tree/master/0918-maximum-sum-circular-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAnilSethy/leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAnilSethy/leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAnilSethy/leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MrAnilSethy/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -62,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MrAnilSethy/leetcode-question/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MrAnilSethy/leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0088-merge-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAnilSethy/leetcode-question/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
