@@ -12,9 +12,10 @@ class Solution:
                 st1 = st1
                 end1 = max(end1,end2)
                 continue
-            res.append([st1,end1])
-            st1 = st2
-            end1 = end2
+            else:
+                res.append([st1,end1])
+                st1 = st2
+                end1 = end2
         res.append([st1,end1])
         return res
 
