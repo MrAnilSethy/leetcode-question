@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/MrAnilSethy/leetcode-question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/MrAnilSethy/leetcode-question/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrAnilSethy/leetcode-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MrAnilSethy/leetcode-question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAnilSethy/leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/MrAnilSethy/leetcode-question/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MrAnilSethy/leetcode-question/tree/master/0042-trapping-rain-water) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/MrAnilSethy/leetcode-question/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
