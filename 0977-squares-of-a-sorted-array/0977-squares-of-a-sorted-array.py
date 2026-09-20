@@ -1,5 +1,5 @@
 class Solution:
-    def sortedSquares(self, nums: List[int]) -> List[int]:
+    def sortedSquares(self, nums: list[int]) -> list[int]:
         pos = []
         nev = []
         for num in nums:
@@ -7,10 +7,10 @@ class Solution:
                 nev.append(num)
             else:
                 pos.append(num)
-        if len(nev) == 0:
-            return [x*x for x in pos]
-        elif len(pos) == 0:
+        if len(pos)==0:
             return [x*x for x in nev][::-1]
+        elif len(nev)==0:
+            return [x*x for x in pos]
         else:
             pos = [x*x for x in pos]
             nev = [x*x for x in nev][::-1]
@@ -20,7 +20,7 @@ class Solution:
             n = len(nev)
             res = []
             while(i<m and j<n):
-                if(pos[i]<nev[j]):
+                if pos[i]<nev[j]:
                     res.append(pos[i])
                     i+=1
                 else:
@@ -33,6 +33,4 @@ class Solution:
                 res.append(nev[j])
                 j+=1
         return res
-            
-
         
