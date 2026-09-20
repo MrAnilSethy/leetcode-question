@@ -6,7 +6,8 @@ class Solution:
 
             if nedded in dic:
                 return [dic[nedded],i]
-            dic[num] = i
-
+            else:
+                dic[num] = i
+        
 
         
