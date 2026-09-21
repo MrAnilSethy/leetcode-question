@@ -33,4 +33,5 @@ class Solution:
                 res.append(nev[j])
                 j+=1
         return res
+
         
