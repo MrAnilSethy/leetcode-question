@@ -12,6 +12,6 @@ class Solution:
                 mid+=1
                 continue
         return st
-
+        
 
         
