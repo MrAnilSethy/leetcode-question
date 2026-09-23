@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MrAnilSethy/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/MrAnilSethy/leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MrAnilSethy/leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAnilSethy/leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAnilSethy/leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MrAnilSethy/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MrAnilSethy/leetcode-question/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MrAnilSethy/leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MrAnilSethy/leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrAnilSethy/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
