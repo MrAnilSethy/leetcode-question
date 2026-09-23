@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/MrAnilSethy/leetcode-question/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/MrAnilSethy/leetcode-question/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/MrAnilSethy/leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MrAnilSethy/leetcode-question/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAnilSethy/leetcode-question/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/MrAnilSethy/leetcode-question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/MrAnilSethy/leetcode-question/tree/master/0986-interval-list-intersections) |
 ## Binary Search
@@ -85,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/MrAnilSethy/leetcode-question/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAnilSethy/leetcode-question/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/MrAnilSethy/leetcode-question/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/MrAnilSethy/leetcode-question/tree/master/0986-interval-list-intersections) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/MrAnilSethy/leetcode-question/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
