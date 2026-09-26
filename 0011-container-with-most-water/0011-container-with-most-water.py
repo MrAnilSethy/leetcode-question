@@ -3,7 +3,7 @@ class Solution:
         st = 0
         end = len(height)-1
         max_water = 0
-        while(st<end):
+        while(st<=end):
             width = end-st
             curr_water = min(height[st],height[end])*width
             max_water = max(max_water,curr_water)
@@ -12,3 +12,4 @@ class Solution:
             else:
                 end-=1
         return max_water
+        
