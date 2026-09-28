@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrAnilSethy/leetcode-question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/MrAnilSethy/leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAnilSethy/leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/MrAnilSethy/leetcode-question/tree/master/0881-boats-to-save-people) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/MrAnilSethy/leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/MrAnilSethy/leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrAnilSethy/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MrAnilSethy/leetcode-question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/MrAnilSethy/leetcode-question/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MrAnilSethy/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/MrAnilSethy/leetcode-question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/MrAnilSethy/leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrAnilSethy/leetcode-question/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MrAnilSethy/leetcode-question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrAnilSethy/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MrAnilSethy/leetcode-question/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
