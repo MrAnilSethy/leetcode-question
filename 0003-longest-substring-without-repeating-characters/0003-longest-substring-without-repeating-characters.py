@@ -11,6 +11,3 @@ class Solution:
             max_len = max(max_len,size)
         return max_len
 
-
-
-        
